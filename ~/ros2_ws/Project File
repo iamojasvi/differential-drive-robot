@@ -1,0 +1,17 @@
+differential-drive-robot/
+├── CMakeLists.txt
+├── package.xml
+├── src/
+│   ├── differential_drive_controller.cpp
+│   ├── waypoint_navigation.py
+│   ├── pid_controller.py
+├── include/
+│   ├── differential_drive_controller.hpp
+├── launch/
+│   ├── sim.launch.py
+├── config/
+│   ├── params.yaml
+├── worlds/
+│   ├── test_world.world
+├── README.md
+└── .gitignore
