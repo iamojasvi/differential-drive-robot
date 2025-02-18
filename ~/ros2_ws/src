@@ -1,0 +1,3 @@
+cd ~/ros2_ws/src
+git init
+git remote add origin https://github.com/YOUR_USERNAME/differential-drive-robot.git
